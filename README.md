@@ -4,10 +4,6 @@ Repo: https://github.com/ucsb-cs156-s22/jpa02-zoeyz5
 
 On Heroku: https://jpa02-xiaozhou.herokuapp.com/
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
-
 On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-zoeyz5
 
 
